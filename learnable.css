@@ -1,0 +1,162 @@
+body{
+    width:1180px;
+    height:1097px;
+    margin: 20px 80px;
+    font-family: Poppins;
+    
+}
+.nav-list{
+    
+    
+    display:flex;
+    gap:150px;
+}
+.Viss{
+    font-family: Poppins;
+font-size: 28px;
+}
+
+.middle{
+    display:inline-flex;
+    gap:50px;
+}
+
+.log{
+    display:flex;
+    gap:50px;
+}
+
+.nav-btn{
+    background-color: #E87A14;
+    width: 150px;
+height: 50px;
+top: 30px;
+left: 1620px;
+border-radius: 16px;;
+border-color: #E87A14;
+color:#fff;
+font-family: Poppins;
+
+}
+
+.container{
+    display:flex;
+    gap:150px;}
+
+    .statement{
+        margin-top: 100px;
+       
+    }
+
+    h3{
+        color: #44C3EBCC;
+        font-family: Poppins;
+font-size: 30px;
+font-weight: 600;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+ }
+
+   
+    .when{
+        font-family: Poppins;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 72px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    
+    }    
+    .buy{
+        width: 150px;
+    height: 65px;
+    top: 754px;
+    left: 102px;
+    border-radius: 20px;
+    border-color: #E87A14;
+    background-color:#E87A14;
+    color:#fff;
+    font-family: Poppins;;
+    
+    } 
+   
+        
+      .denim{
+            top:-560px;
+            height:550px;
+        }
+        
+        
+/* Login Page */
+.boxed{
+    background :  url("Learnable Images/background.png") ;
+    align-content: center;
+   
+
+}
+
+.cancel{
+    
+width: 20px;
+height: 20px;
+padding-left: 1230px;
+}
+
+.pack{
+    display:flex;
+    width: 1000px;
+    height: 846px;
+    border-radius: 24px;
+    align-items: center;
+    margin:20px 110px;
+    border: 1px ;
+    
+    }
+
+.logsign{
+    background-color: #fff;
+    height:100%;
+    border-bottom-left-radius: 24px;
+    border-top-left-radius:24px ;
+    width:50%;
+    padding:0px 50px
+}
+
+.logo{
+    padding:30px 170px;
+ }
+ .logost{
+     padding:0px 130px;
+ }
+ .logostate{
+     font-size: small;
+     justify-self: center;
+     padding:0px 25px
+ }
+ 
+
+.social{
+ width: 400px;
+height: 72px;
+padding: 40px 70px;
+border-radius: 40px;
+border: 1px solid black;
+display:flex;
+gap:30px;
+align-items:center;
+
+background-color: #fff;
+font-family: Poppins;
+
+}
+
+.image{
+    width: 50%;
+height: 100%;
+left: -48px;
+border-top-right-radius: 24px;
+border-bottom-right-radius: 24px;
+
+
+}
