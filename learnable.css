@@ -1,7 +1,7 @@
 body{
     width:1180px;
     height:1097px;
-    margin: 20px 80px;
+    margin: 20px 100px;
     font-family: Poppins;
     
 }
@@ -92,6 +92,7 @@ text-align: left;
 .boxed{
     background :  url("Learnable Images/background.png") ;
     align-content: center;
+    height:1000px;
    
 
 }
